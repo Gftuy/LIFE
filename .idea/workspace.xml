@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cb79b58a-990d-435f-9982-2610ac790e22" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2W4vtRCQy8aExKmJjbOY1CBnfdc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/user/PycharmProjects/Demo_aap/BD_sql/src/datebase/script.sql",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "sqlite"
+    ],
+    "RunConfigurationTargetLRU": [
+      "6a4a3ccf-79db-4c08-810a-d81783750cb0",
+      "28d8cd30-95b8-4c5e-a188-08f1b1977498",
+      "c662cc61-6296-4ccd-b66e-4fafcc16fbad/schema/\"main\""
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\PycharmProjects\Demo_aap\BD_sql\src" />
+      <recent name="C:\Users\user\PycharmProjects\Demo_aap\BD_sql\server\src" />
+      <recent name="C:\Users\user\PycharmProjects\Demo_aap\BD_sql\server" />
+      <recent name="C:\Users\user\PycharmProjects\Demo_aap\BD_sql\client\src" />
+      <recent name="C:\Users\user\PycharmProjects\Demo_aap\BD_sql\client" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Database Script.script.sql">
+    <configuration name="Unnamed" type="CompoundRunConfigurationType">
+      <method v="2" />
+    </configuration>
+    <configuration name="Unnamed" type="DatabaseScript" nameIsGenerated="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="script.sql" type="DatabaseScript" editBeforeRun="true" focusToolWindowBeforeRun="true" temporary="true" nameIsGenerated="true">
+      <script-file value="$PROJECT_DIR$/BD_sql/src/datebase/script.sql" />
+      <script-mode>FILE</script-mode>
+      <data-source id="c662cc61-6296-4ccd-b66e-4fafcc16fbad" namespace="schema/&quot;main&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Compound.Unnamed" />
+      <item itemvalue="Database Script.Unnamed" />
+      <item itemvalue="Database Script.script.sql" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Database Script.script.sql" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cb79b58a-990d-435f-9982-2610ac790e22" name="Changes" comment="" />
+      <created>1696004880823</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696004880823</updated>
+      <workItem from="1697216296041" duration="382000" />
+      <workItem from="1697216699343" duration="28000" />
+      <workItem from="1697217022003" duration="7000" />
+      <workItem from="1697217442206" duration="26000" />
+      <workItem from="1697217747195" duration="21000" />
+      <workItem from="1697217874676" duration="8000" />
+      <workItem from="1697218247743" duration="8000" />
+      <workItem from="1697218465177" duration="63000" />
+      <workItem from="1697218541958" duration="668000" />
+      <workItem from="1697227522542" duration="6104000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
